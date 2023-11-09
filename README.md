@@ -8,7 +8,7 @@ Code Reviews in Go: Top 5 Misses stems from our time working together and the ma
 
 ## Slides
 
-To be uploaded
+Can be found in this repo in PDF format
 
 ## PR Review Checklist
 
@@ -49,7 +49,7 @@ To be uploaded
 - [ ] Could we use an interface for this so it can be a unit test?
 - [ ] Do we do anything to cap how many Goroutines can be spun up at once?
 
-### Little Things
+### Style items to watch for
 
 - [ ] Are the input fields validated as needed?
 - [ ] Are the comments helpful and necessary?
